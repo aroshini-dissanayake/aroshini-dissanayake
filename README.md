@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **on Youtube**
-
 - 👨‍💻 All of my projects are available at [https://github.com/IT20104108](https://github.com/IT20104108)
 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap**
