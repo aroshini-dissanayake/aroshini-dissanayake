@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aroshini Dissanayake</h1>
-<h3 align= "center">Programmer | Gamer | Traveler</h3>
+<h3 align= "center">Programmer | Traveler | Nature Lover </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20104108&label=Profile%20views&color=0e75b6&style=flat" alt="it20104108" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap**
 
-- 📫 How to reach me **arodeez88@gmail.com**
+- 📫 How to reach me **arodissanayake8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
