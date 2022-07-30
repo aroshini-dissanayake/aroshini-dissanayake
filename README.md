@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aroshini Dissanayake</h1>
 <h3 align= "center">Programmer | Traveler | Nature Lover </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20104108&label=Profile%20views&color=0e75b6&style=flat" alt="it20104108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aroshini-dissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="aroshini-dissanayake" /> </p>
 
 
 
@@ -27,6 +27,6 @@
 <br><br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20104108&show_icons=true&locale=en&layout=compact" alt="it20104108" />&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=it20104108&show_icons=true&locale=en" alt="it20104108" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroshini-dissanayake&show_icons=true&locale=en&layout=compact" alt="aroshini-dissanayake" />&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aroshini-dissanayake&show_icons=true&locale=en" alt="aroshini-dissanayake" />
 
