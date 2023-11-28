@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently studying on **SLIIT**
 
-- 🌱 I’m currently learning **MERN stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/aroshini-dissanayake](https://github.com/aroshini-dissanayake)
-
-- 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **arodissanayake8@gmail.com**
 
